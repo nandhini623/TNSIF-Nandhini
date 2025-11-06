@@ -1,6 +1,5 @@
 package com.tnsif.collection.list;
 
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
@@ -75,7 +74,7 @@ public class ArrayListDemo {
 			String nm = i.next();
 			System.out.println(nm);
 			
-			if(nm.equals("Swetha"));
+			if(nm.equals("Swetha"))
 			i.remove();
 			
 		}
@@ -85,6 +84,3 @@ public class ArrayListDemo {
 	}
 
 }
-
-
-
